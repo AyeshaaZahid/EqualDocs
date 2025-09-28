@@ -5,8 +5,12 @@ Smart form assistant
 **Overview**
 
 EqualDocs is a smart web-based document assistant designed to simplify complex forms by extracting, highlighting, and explaining key information in multiple languages. It empowers users to better understand official documents, saving time and reducing confusion.
+
+
 **Tech Stack used
 **
+
+
 1.Python
 
 2.Streamlit (for web app interface)
